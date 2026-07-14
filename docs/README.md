@@ -59,7 +59,7 @@ For detailed role descriptions and responsibilities, see [OctoAcme Personas](./o
 ## Communication Cadence
 
 | Cadence | Frequency | Purpose |
-|---------|-----------|---------|
+|---------|-----------|----------|
 | Daily Standups | Daily (15 min) | Surface progress, blockers, and dependencies |
 | Weekly PM Sync | Weekly | Align delivery with product strategy and address risks |
 | Team Standups | 2x weekly | Keep execution on track and coordinate work |
